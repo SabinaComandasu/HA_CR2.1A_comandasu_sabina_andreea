@@ -1,0 +1,14 @@
+TSP - Traveling Salesman problem
+Given a list of cities and the distances between each pair of cities, what is
+the route of minimum cost that visits each city exactly once and returns to the
+origin city? The cost function of the solution must be the minimization of the
+longest distance between two consecutive cities.
+
+You must provide the implementations for the following strategies:
+• Exhaustive strategies
+– Depth-First Search
+– Least-Cost (Uniform cost) Search
+• Heuristic strategy
+– A* Search
+For the heuristic strategy using A* algorithm, you must define your own
+heuristic function and its implementation.
